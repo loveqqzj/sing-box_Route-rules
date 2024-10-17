@@ -1,0 +1,58 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "amazon.co.jp",
+        "api-p.videomarket.jp",
+        "appsflayer.com",
+        "binanceapi.com",
+        "binancecnt.com",
+        "bnbstatic.com",
+        "booth.pm",
+        "dmm-extension.com",
+        "dmm.co.jp",
+        "dmm.com",
+        "dmmapis.com",
+        "dmmrex.com",
+        "fanbox.cc",
+        "pixiv.co.jp",
+        "pixiv.me",
+        "pixiv.net",
+        "pixiv.org",
+        "pximg.net",
+        "saasexch.com",
+        "saasexch.io"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "binance",
+        "binancezh"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".amazon.co.jp",
+        ".appsflayer.com",
+        ".binanceapi.com",
+        ".binancecnt.com",
+        ".bnbstatic.com",
+        ".booth.pm",
+        ".dmm-extension.com",
+        ".dmm.co.jp",
+        ".dmm.com",
+        ".dmmapis.com",
+        ".dmmrex.com",
+        ".fanbox.cc",
+        ".pixiv.co.jp",
+        ".pixiv.me",
+        ".pixiv.net",
+        ".pixiv.org",
+        ".pximg.net",
+        ".saasexch.com",
+        ".saasexch.io"
+      ]
+    }
+  ],
+  "version": 1
+}

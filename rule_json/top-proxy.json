@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "addons.mozilla.org",
+        "onedrive.live.com",
+        "xboxlive.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".onedrive.live.com",
+        ".xboxlive.com"
+      ]
+    }
+  ],
+  "version": 1
+}

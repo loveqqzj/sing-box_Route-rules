@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "oyunfor.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".oyunfor.com"
+      ]
+    }
+  ],
+  "version": 1
+}

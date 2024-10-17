@@ -1,0 +1,38 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "delivery.mp.microsoft.com",
+        "download.microsoft.com",
+        "forefrontdl.microsoft.com",
+        "ntservicepack.microsoft.com",
+        "officecdn.microsoft.com",
+        "turgame.com",
+        "windowsupdate.com",
+        "windowsupdate.microsoft.com",
+        "wustat.windows.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "prod.do.dsp.mp.microsoft.com",
+        "update.microsoft.com",
+        "windows.com.akadns.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".delivery.mp.microsoft.com",
+        ".download.microsoft.com",
+        ".forefrontdl.microsoft.com",
+        ".ntservicepack.microsoft.com",
+        ".officecdn.microsoft.com",
+        ".turgame.com",
+        ".windowsupdate.com",
+        ".windowsupdate.microsoft.com",
+        ".wustat.windows.com"
+      ]
+    }
+  ],
+  "version": 1
+}

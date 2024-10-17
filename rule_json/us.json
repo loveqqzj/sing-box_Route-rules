@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "hanime1.me",
+        "jdbimgs.com",
+        "jdbstatic.com",
+        "paypal.com",
+        "paypalobjects.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "javdb"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".hanime1.me",
+        ".jdbimgs.com",
+        ".jdbstatic.com",
+        ".paypal.com",
+        ".paypalobjects.com"
+      ]
+    }
+  ],
+  "version": 1
+}
