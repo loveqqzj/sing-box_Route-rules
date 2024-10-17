@@ -4,3 +4,15 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Telegram/Telegram.list
 https://raw.githubusercontent.com/loveqqzj/Clash/refs/heads/main/rule-providers/1password.txt
 https://raw.githubusercontent.com/loveqqzj/Clash/refs/heads/main/rule-providers/direct.txt
+https://raw.githubusercontent.com/loveqqzj/Clash/refs/heads/main/rule-providers/download.txt
+https://raw.githubusercontent.com/loveqqzj/Clash/refs/heads/main/rule-providers/eur.txt
+https://raw.githubusercontent.com/loveqqzj/Clash/refs/heads/main/rule-providers/jav.txt
+https://raw.githubusercontent.com/loveqqzj/Clash/refs/heads/main/rule-providers/jp.txt
+https://raw.githubusercontent.com/loveqqzj/Clash/refs/heads/main/rule-providers/lan.txt
+https://raw.githubusercontent.com/loveqqzj/Clash/refs/heads/main/rule-providers/microsoft.txt
+https://raw.githubusercontent.com/loveqqzj/Clash/refs/heads/main/rule-providers/proxy.txt
+https://raw.githubusercontent.com/loveqqzj/Clash/refs/heads/main/rule-providers/reject.txt
+https://raw.githubusercontent.com/loveqqzj/Clash/refs/heads/main/rule-providers/speedtest.txt
+https://raw.githubusercontent.com/loveqqzj/Clash/refs/heads/main/rule-providers/top-direct.txt
+https://raw.githubusercontent.com/loveqqzj/Clash/refs/heads/main/rule-providers/top-proxy.txt
+https://raw.githubusercontent.com/loveqqzj/Clash/refs/heads/main/rule-providers/us.txt
